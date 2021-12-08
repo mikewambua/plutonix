@@ -1,0 +1,3 @@
+#This is the 404 error page
+
+ErrorDocument 404 http://localhost/plutonix/404.php
